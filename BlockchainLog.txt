@@ -1,0 +1,1267 @@
+Hamood Rehman's BlockFramework control-c to quit.
+
+Using processID: 0
+Starting the blockchain server input thread using 4930
+Starting the Unverified Block Server input thread using 4820
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>a60ab2c3-792b-4511-acfa-902ad262bfe6</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1559113762207</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: a60ab2c3-792b-4511-acfa-902ad262bfe6 Social 123-45-6789 First Name: John TimeStamp: 1559113762207]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: a60ab2c3-792b-4511-acfa-902ad262bfe6 Social 123-45-6789 First Name: John TimeStamp: 1559113762207]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>174fc105-52b2-4979-b676-4d7270f9719a</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1559113762742</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 174fc105-52b2-4979-b676-4d7270f9719a Social 123-45-6888 First Name: Joe TimeStamp: 1559113762742]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: a60ab2c3-792b-4511-acfa-902ad262bfe6 Social 123-45-6789 First Name: John TimeStamp: 1559113762207], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 174fc105-52b2-4979-b676-4d7270f9719a Social 123-45-6888 First Name: Joe TimeStamp: 1559113762742]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>32a14590-8ed2-4e7f-a9a7-07c7717854fb</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+    <timeStampStr>1559113763244</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 32a14590-8ed2-4e7f-a9a7-07c7717854fb Social 123-45-6999 First Name: Julie TimeStamp: 1559113763244]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: a60ab2c3-792b-4511-acfa-902ad262bfe6 Social 123-45-6789 First Name: John TimeStamp: 1559113762207], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 174fc105-52b2-4979-b676-4d7270f9719a Social 123-45-6888 First Name: Joe TimeStamp: 1559113762742], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 32a14590-8ed2-4e7f-a9a7-07c7717854fb Social 123-45-6999 First Name: Julie TimeStamp: 1559113763244]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>c54c4f4b-c59a-4e2f-ba07-2aef36ab1447</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+    <timeStampStr>1559113763746</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: c54c4f4b-c59a-4e2f-ba07-2aef36ab1447 Social 123-45-6777 First Name: Wayne TimeStamp: 1559113763746]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: a60ab2c3-792b-4511-acfa-902ad262bfe6 Social 123-45-6789 First Name: John TimeStamp: 1559113762207], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 174fc105-52b2-4979-b676-4d7270f9719a Social 123-45-6888 First Name: Joe TimeStamp: 1559113762742], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 32a14590-8ed2-4e7f-a9a7-07c7717854fb Social 123-45-6999 First Name: Julie TimeStamp: 1559113763244], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: c54c4f4b-c59a-4e2f-ba07-2aef36ab1447 Social 123-45-6777 First Name: Wayne TimeStamp: 1559113763746]]
+4 records read.
+Names from input:
+Starting the Unverified Block Priority Queue Consumer thread.
+
+First 16 bits in Hex 13A3 with Decimal value: 5027
+Block verified by Process 0
+Verfied Block recieved from Process Id: 0
+First 16 bits in Hex 030A with Decimal value: 778
+Block verified by Process 0
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>a60ab2c3-792b-4511-acfa-902ad262bfe6</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>13A3477CED7D2C90878854C7E36D1B0FA96214D7DF1C4A8327CB8996F03E4FB0</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1559113762207</timeStampStr>
+</blockRecord>
+
+
+Verfied Block recieved from Process Id: 0
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: a60ab2c3-792b-4511-acfa-902ad262bfe6 Social 123-45-6789 First Name: John TimeStamp: 1559113762207]
+First 16 bits in Hex 481B with Decimal value: 18459
+First 16 bits in Hex DCF2 with Decimal value: 56562
+First 16 bits in Hex 42FE with Decimal value: 17150
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>174fc105-52b2-4979-b676-4d7270f9719a</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>030A3F3A88267AD56D0C01E6145FCEBEB6D5DDC71F17255F3AC9AD74E5B2EF5A</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1559113762742</timeStampStr>
+</blockRecord>
+
+
+First 16 bits in Hex DF80 with Decimal value: 57216
+First 16 bits in Hex 5A47 with Decimal value: 23111
+First 16 bits in Hex 2786 with Decimal value: 10118
+Block verified by Process 0
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: 174fc105-52b2-4979-b676-4d7270f9719a Social 123-45-6888 First Name: Joe TimeStamp: 1559113762742]
+Verfied Block recieved from Process Id: 0
+Verified Block Ledger has been updated in BlockchainLedger.xml
+Verified Block Received by BLOCKCHAIN:
+First 16 bits in Hex 6945 with Decimal value: 26949<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>32a14590-8ed2-4e7f-a9a7-07c7717854fb</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>27866C2998EC017B20E1A993D4BAA2061F898EAFE6CD23E215AF0E28F8AE49CD</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+    <timeStampStr>1559113763244</timeStampStr>
+</blockRecord>
+
+
+
+First 16 bits in Hex 52CE with Decimal value: 21198
+First 16 bits in Hex 0867 with Decimal value: 2151
+Block verified by Process 0
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: 32a14590-8ed2-4e7f-a9a7-07c7717854fb Social 123-45-6999 First Name: Julie TimeStamp: 1559113763244]
+Verfied Block recieved from Process Id: 0
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>c54c4f4b-c59a-4e2f-ba07-2aef36ab1447</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>0867E085C565649D8566EE69AC19056A7F5F292339171E29CD3E14C35D8C79F9</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+    <timeStampStr>1559113763746</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: c54c4f4b-c59a-4e2f-ba07-2aef36ab1447 Social 123-45-6777 First Name: Wayne TimeStamp: 1559113763746]
+Verified Block Ledger has been updated in BlockchainLedger.xml
+Hamood Rehman's BlockFramework control-c to quit.
+
+Using processID: 0
+Starting the Unverified Block Server input thread using 4820
+Starting the blockchain server input thread using 4930
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>e8dfd692-baec-49cf-95bf-a214f05a71f2</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573094768474</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: e8dfd692-baec-49cf-95bf-a214f05a71f2 Social 123-45-6789 First Name: John TimeStamp: 1573094768474]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: e8dfd692-baec-49cf-95bf-a214f05a71f2 Social 123-45-6789 First Name: John TimeStamp: 1573094768474]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>01d08b67-1922-4c8c-9eaf-753a0dec62bf</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573094769022</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 01d08b67-1922-4c8c-9eaf-753a0dec62bf Social 123-45-6888 First Name: Joe TimeStamp: 1573094769022]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: e8dfd692-baec-49cf-95bf-a214f05a71f2 Social 123-45-6789 First Name: John TimeStamp: 1573094768474], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 01d08b67-1922-4c8c-9eaf-753a0dec62bf Social 123-45-6888 First Name: Joe TimeStamp: 1573094769022]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>f2eeb33a-2a71-4633-8a1f-8f5a655681f3</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+    <timeStampStr>1573094769525</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: f2eeb33a-2a71-4633-8a1f-8f5a655681f3 Social 123-45-6999 First Name: Julie TimeStamp: 1573094769525]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: e8dfd692-baec-49cf-95bf-a214f05a71f2 Social 123-45-6789 First Name: John TimeStamp: 1573094768474], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 01d08b67-1922-4c8c-9eaf-753a0dec62bf Social 123-45-6888 First Name: Joe TimeStamp: 1573094769022], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: f2eeb33a-2a71-4633-8a1f-8f5a655681f3 Social 123-45-6999 First Name: Julie TimeStamp: 1573094769525]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>a74d9eaf-20ae-43b5-bea4-408c2e316995</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+    <timeStampStr>1573094770026</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: a74d9eaf-20ae-43b5-bea4-408c2e316995 Social 123-45-6777 First Name: Wayne TimeStamp: 1573094770026]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: e8dfd692-baec-49cf-95bf-a214f05a71f2 Social 123-45-6789 First Name: John TimeStamp: 1573094768474], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 01d08b67-1922-4c8c-9eaf-753a0dec62bf Social 123-45-6888 First Name: Joe TimeStamp: 1573094769022], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: f2eeb33a-2a71-4633-8a1f-8f5a655681f3 Social 123-45-6999 First Name: Julie TimeStamp: 1573094769525], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: a74d9eaf-20ae-43b5-bea4-408c2e316995 Social 123-45-6777 First Name: Wayne TimeStamp: 1573094770026]]
+4 records read.
+Names from input:
+Starting the Unverified Block Priority Queue Consumer thread.
+
+First 16 bits in Hex 9654 with Decimal value: 38484
+First 16 bits in Hex AC3D with Decimal value: 44093
+First 16 bits in Hex 80CD with Decimal value: 32973
+First 16 bits in Hex E263 with Decimal value: 57955
+First 16 bits in Hex 7611 with Decimal value: 30225
+First 16 bits in Hex C4E2 with Decimal value: 50402
+First 16 bits in Hex 1AFB with Decimal value: 6907
+Block verified by Process 0
+Verfied Block recieved from Process Id: 0
+First 16 bits in Hex 0D75 with Decimal value: 3445
+Block verified by Process 0
+Verfied Block recieved from Process Id: 0
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>e8dfd692-baec-49cf-95bf-a214f05a71f2</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>1AFB59F9FD0E5F72E455426A2EDEAB27C1993D4871BA9CEB1FD00FAD2D7A28C6</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573094768474</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: e8dfd692-baec-49cf-95bf-a214f05a71f2 Social 123-45-6789 First Name: John TimeStamp: 1573094768474]
+First 16 bits in Hex D898 with Decimal value: 55448
+First 16 bits in Hex BA8C with Decimal value: 47756
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>01d08b67-1922-4c8c-9eaf-753a0dec62bf</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>0D75351212EC92D75FDCF45A3931E0924FD73FC793A28EBC074F044BF616CA8A</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573094769022</timeStampStr>
+</blockRecord>
+
+
+First 16 bits in Hex 6936 with Decimal value: 26934
+First 16 bits in Hex F4FC with Decimal value: 62716
+First 16 bits in Hex AA00 with Decimal value: 43520
+First 16 bits in Hex FA27 with Decimal value: 64039
+First 16 bits in Hex 6644 with Decimal value: 26180
+First 16 bits in Hex B1F1 with Decimal value: 45553
+First 16 bits in Hex 0509 with Decimal value: 1289
+Block verified by Process 0
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: 01d08b67-1922-4c8c-9eaf-753a0dec62bf Social 123-45-6888 First Name: Joe TimeStamp: 1573094769022]
+Verfied Block recieved from Process Id: 0
+First 16 bits in Hex FD55 with Decimal value: 64853
+First 16 bits in Hex 9279 with Decimal value: 37497
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>f2eeb33a-2a71-4633-8a1f-8f5a655681f3</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>05098BA7766048A60A73F08BAF077C0C29B5C311119018082362D023270FD6D1</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+    <timeStampStr>1573094769525</timeStampStr>
+</blockRecord>
+
+
+First 16 bits in Hex F7B0 with Decimal value: 63408
+First 16 bits in Hex 6323 with Decimal value: 25379
+First 16 bits in Hex 4B30 with Decimal value: 19248
+First 16 bits in Hex CC0F with Decimal value: 52239
+First 16 bits in Hex 34E5 with Decimal value: 13541
+Block verified by Process 0
+Verified Block Ledger has been updated in BlockchainLedger.xml
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: f2eeb33a-2a71-4633-8a1f-8f5a655681f3 Social 123-45-6999 First Name: Julie TimeStamp: 1573094769525]
+Verfied Block recieved from Process Id: 0
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>a74d9eaf-20ae-43b5-bea4-408c2e316995</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>34E5D34EF3D254D483BA9A913E0F655AE0D288BB01D203241CA24F77DB4C02A0</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+    <timeStampStr>1573094770026</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: a74d9eaf-20ae-43b5-bea4-408c2e316995 Social 123-45-6777 First Name: Wayne TimeStamp: 1573094770026]
+Verified Block Ledger has been updated in BlockchainLedger.xml
+Verified Block Ledger has been updated in BlockchainLedger.xml
+Hamood Rehman's BlockFramework control-c to quit.
+
+Using processID: 0
+Starting the Unverified Block Server input thread using 4820
+Starting the blockchain server input thread using 4930
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>9d2311e5-d02f-46f1-b867-2799ef7c2e36</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573094808682</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 9d2311e5-d02f-46f1-b867-2799ef7c2e36 Social 123-45-6789 First Name: John TimeStamp: 1573094808682]
+[]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>39bf271e-a360-42dc-a88c-e32ad9b590a6</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573094809209</timeStampStr>
+</blockRecord>
+
+
+First 16 bits in Hex 2EE1 with Decimal value: 12001
+Block verified by Process 0
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 39bf271e-a360-42dc-a88c-e32ad9b590a6 Social 123-45-6888 First Name: Joe TimeStamp: 1573094809209]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 39bf271e-a360-42dc-a88c-e32ad9b590a6 Social 123-45-6888 First Name: Joe TimeStamp: 1573094809209]]
+Verfied Block recieved from Process Id: 0
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>708f8ac4-0216-4b0a-a434-fad47db3c546</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+    <timeStampStr>1573094809712</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 708f8ac4-0216-4b0a-a434-fad47db3c546 Social 123-45-6999 First Name: Julie TimeStamp: 1573094809712]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 39bf271e-a360-42dc-a88c-e32ad9b590a6 Social 123-45-6888 First Name: Joe TimeStamp: 1573094809209], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 708f8ac4-0216-4b0a-a434-fad47db3c546 Social 123-45-6999 First Name: Julie TimeStamp: 1573094809712]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>35272ee4-755c-4c44-a762-590ed4f48ca1</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+    <timeStampStr>1573094810215</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 35272ee4-755c-4c44-a762-590ed4f48ca1 Social 123-45-6777 First Name: Wayne TimeStamp: 1573094810215]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 39bf271e-a360-42dc-a88c-e32ad9b590a6 Social 123-45-6888 First Name: Joe TimeStamp: 1573094809209], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 708f8ac4-0216-4b0a-a434-fad47db3c546 Social 123-45-6999 First Name: Julie TimeStamp: 1573094809712], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 35272ee4-755c-4c44-a762-590ed4f48ca1 Social 123-45-6777 First Name: Wayne TimeStamp: 1573094810215]]
+4 records read.
+Names from input:
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>9d2311e5-d02f-46f1-b867-2799ef7c2e36</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>2EE1B05DFA01D05350A6C4B90705DF062A9BF934F2751012356D6AFBC9D4506A</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573094808682</timeStampStr>
+</blockRecord>
+
+
+First 16 bits in Hex AF71 with Decimal value: 44913
+First 16 bits in Hex 7EBC with Decimal value: 32444
+First 16 bits in Hex 8C5C with Decimal value: 35932
+First 16 bits in Hex 3BC7 with Decimal value: 15303
+First 16 bits in Hex 55E9 with Decimal value: 21993
+First 16 bits in Hex 2195 with Decimal value: 8597
+Block verified by Process 0
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: 9d2311e5-d02f-46f1-b867-2799ef7c2e36 Social 123-45-6789 First Name: John TimeStamp: 1573094808682]
+Verfied Block recieved from Process Id: 0
+First 16 bits in Hex 74B2 with Decimal value: 29874
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>39bf271e-a360-42dc-a88c-e32ad9b590a6</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>2195555EA01701D201D20EF823D053502B2AD47E3E166FABC75B672A8C33372C</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573094809209</timeStampStr>
+</blockRecord>
+
+
+First 16 bits in Hex E2AD with Decimal value: 58029
+First 16 bits in Hex 04A2 with Decimal value: 1186
+Block verified by Process 0
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: 39bf271e-a360-42dc-a88c-e32ad9b590a6 Social 123-45-6888 First Name: Joe TimeStamp: 1573094809209]
+Verfied Block recieved from Process Id: 0
+Starting the Unverified Block Priority Queue Consumer thread.
+
+First 16 bits in Hex 640F with Decimal value: 25615
+First 16 bits in Hex 113A with Decimal value: 4410
+Block verified by Process 0
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>708f8ac4-0216-4b0a-a434-fad47db3c546</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>04A2A443B382712037389165F133A64812546598014C85BB929D893AEE00B531</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+    <timeStampStr>1573094809712</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: 708f8ac4-0216-4b0a-a434-fad47db3c546 Social 123-45-6999 First Name: Julie TimeStamp: 1573094809712]
+Verfied Block recieved from Process Id: 0
+Verified Block Ledger has been updated in BlockchainLedger.xml
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>35272ee4-755c-4c44-a762-590ed4f48ca1</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>113A8B4F3643EEE3A089448C2FDFBE1CCCBD35300042487EDF5927CBE8DDD5DD</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+    <timeStampStr>1573094810215</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: 35272ee4-755c-4c44-a762-590ed4f48ca1 Social 123-45-6777 First Name: Wayne TimeStamp: 1573094810215]
+Verified Block Ledger has been updated in BlockchainLedger.xml
+Verified Block Ledger has been updated in BlockchainLedger.xml
+Hamood Rehman's BlockFramework control-c to quit.
+
+Using processID: 0
+Starting the Unverified Block Server input thread using 4820
+Starting the blockchain server input thread using 4930
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>310563b3-9e57-4cc1-8c91-6ef4c20ce13b</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573094850666</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 310563b3-9e57-4cc1-8c91-6ef4c20ce13b Social 123-45-6789 First Name: John TimeStamp: 1573094850666]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 310563b3-9e57-4cc1-8c91-6ef4c20ce13b Social 123-45-6789 First Name: John TimeStamp: 1573094850666]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>f107738f-b863-4047-a9db-74c04b98737c</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573094851189</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: f107738f-b863-4047-a9db-74c04b98737c Social 123-45-6888 First Name: Joe TimeStamp: 1573094851189]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: f107738f-b863-4047-a9db-74c04b98737c Social 123-45-6888 First Name: Joe TimeStamp: 1573094851189]]
+First 16 bits in Hex 0FBC with Decimal value: 4028
+Block verified by Process 0
+Verfied Block recieved from Process Id: 0
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>5ddf6fa3-2a3d-4e30-91d5-e512b96ea25c</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+    <timeStampStr>1573094851692</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 5ddf6fa3-2a3d-4e30-91d5-e512b96ea25c Social 123-45-6999 First Name: Julie TimeStamp: 1573094851692]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: f107738f-b863-4047-a9db-74c04b98737c Social 123-45-6888 First Name: Joe TimeStamp: 1573094851189], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 5ddf6fa3-2a3d-4e30-91d5-e512b96ea25c Social 123-45-6999 First Name: Julie TimeStamp: 1573094851692]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>bd7fa8e2-9728-4a91-ab33-f63e9c1bf101</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+    <timeStampStr>1573094852194</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: bd7fa8e2-9728-4a91-ab33-f63e9c1bf101 Social 123-45-6777 First Name: Wayne TimeStamp: 1573094852194]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: f107738f-b863-4047-a9db-74c04b98737c Social 123-45-6888 First Name: Joe TimeStamp: 1573094851189], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 5ddf6fa3-2a3d-4e30-91d5-e512b96ea25c Social 123-45-6999 First Name: Julie TimeStamp: 1573094851692], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: bd7fa8e2-9728-4a91-ab33-f63e9c1bf101 Social 123-45-6777 First Name: Wayne TimeStamp: 1573094852194]]
+4 records read.
+Names from input:
+First 16 bits in Hex 1E9F with Decimal value: 7839
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>310563b3-9e57-4cc1-8c91-6ef4c20ce13b</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>0FBC5C5E792F6530334FA59C7D0B9A34D1F170BE09FA5490F65512F8D213AF03</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573094850666</timeStampStr>
+</blockRecord>
+
+
+Block verified by Process 0
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: 310563b3-9e57-4cc1-8c91-6ef4c20ce13b Social 123-45-6789 First Name: John TimeStamp: 1573094850666]
+Verfied Block recieved from Process Id: 0
+Starting the Unverified Block Priority Queue Consumer thread.
+
+First 16 bits in Hex 78C3 with Decimal value: 30915
+First 16 bits in Hex 701B with Decimal value: 28699
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>f107738f-b863-4047-a9db-74c04b98737c</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>1E9F19AFFBACCCF61F1E220B7FB0F84ECC4D7A20587B2345B60B8DCC074E96FB</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573094851189</timeStampStr>
+</blockRecord>
+
+First 16 bits in Hex 9FE4 with Decimal value: 40932
+
+First 16 bits in Hex 94FA with Decimal value: 38138
+First 16 bits in Hex 9891 with Decimal value: 39057
+First 16 bits in Hex 717E with Decimal value: 29054
+First 16 bits in Hex 01CC with Decimal value: 460
+Block verified by Process 0
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: f107738f-b863-4047-a9db-74c04b98737c Social 123-45-6888 First Name: Joe TimeStamp: 1573094851189]
+Verfied Block recieved from Process Id: 0
+First 16 bits in Hex 44DA with Decimal value: 17626
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>5ddf6fa3-2a3d-4e30-91d5-e512b96ea25c</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>01CC249B966616E589F5A30725DE7AB02B64302A9533A99BC987D0E557DDF6D3</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+    <timeStampStr>1573094851692</timeStampStr>
+</blockRecord>
+
+
+First 16 bits in Hex B57E with Decimal value: 46462
+First 16 bits in Hex 34D8 with Decimal value: 13528
+Block verified by Process 0
+Verfied Block recieved from Process Id: 0
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: 5ddf6fa3-2a3d-4e30-91d5-e512b96ea25c Social 123-45-6999 First Name: Julie TimeStamp: 1573094851692]
+Verified Block Ledger has been updated in BlockchainLedger.xml
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>bd7fa8e2-9728-4a91-ab33-f63e9c1bf101</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>34D8CB4D0CD548583BA2793571F458EF08986481C56496F4ECF955FA90BD15DE</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+    <timeStampStr>1573094852194</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: bd7fa8e2-9728-4a91-ab33-f63e9c1bf101 Social 123-45-6777 First Name: Wayne TimeStamp: 1573094852194]
+Verified Block Ledger has been updated in BlockchainLedger.xml
+Verified Block Ledger has been updated in BlockchainLedger.xml
+Hamood Rehman's BlockFramework control-c to quit.
+
+Using processID: 0
+Starting the Unverified Block Server input thread using 4820
+Starting the blockchain server input thread using 4930
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>6edc27ce-76c2-42d7-b0d0-9fc422618ffd</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573097536630</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 6edc27ce-76c2-42d7-b0d0-9fc422618ffd Social 123-45-6789 First Name: John TimeStamp: 1573097536630]
+[]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>158d8165-f9d1-457c-a436-af45e8ca53f1</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573097537157</timeStampStr>
+</blockRecord>
+
+
+First 16 bits in Hex 2B19 with Decimal value: 11033
+Block verified by Process 0
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 158d8165-f9d1-457c-a436-af45e8ca53f1 Social 123-45-6888 First Name: Joe TimeStamp: 1573097537157]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 158d8165-f9d1-457c-a436-af45e8ca53f1 Social 123-45-6888 First Name: Joe TimeStamp: 1573097537157]]
+Verfied Block recieved from Process Id: 0
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>7c7992a0-8443-455e-b51e-635eda17b45f</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+    <timeStampStr>1573097537660</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 7c7992a0-8443-455e-b51e-635eda17b45f Social 123-45-6999 First Name: Julie TimeStamp: 1573097537660]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 158d8165-f9d1-457c-a436-af45e8ca53f1 Social 123-45-6888 First Name: Joe TimeStamp: 1573097537157], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 7c7992a0-8443-455e-b51e-635eda17b45f Social 123-45-6999 First Name: Julie TimeStamp: 1573097537660]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>05c19ee8-5b3f-48d1-89d0-41d1c4122914</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+    <timeStampStr>1573097538163</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 05c19ee8-5b3f-48d1-89d0-41d1c4122914 Social 123-45-6777 First Name: Wayne TimeStamp: 1573097538163]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 158d8165-f9d1-457c-a436-af45e8ca53f1 Social 123-45-6888 First Name: Joe TimeStamp: 1573097537157], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 7c7992a0-8443-455e-b51e-635eda17b45f Social 123-45-6999 First Name: Julie TimeStamp: 1573097537660], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 05c19ee8-5b3f-48d1-89d0-41d1c4122914 Social 123-45-6777 First Name: Wayne TimeStamp: 1573097538163]]
+4 records read.
+Names from input:
+First 16 bits in Hex F12E with Decimal value: 61742
+First 16 bits in Hex CA79 with Decimal value: 51833
+First 16 bits in Hex C8D1 with Decimal value: 51409
+First 16 bits in Hex CF50 with Decimal value: 53072
+First 16 bits in Hex 2AF8 with Decimal value: 11000
+Block verified by Process 0
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>6edc27ce-76c2-42d7-b0d0-9fc422618ffd</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>2B19EE194DCD46FFA832BD11DEA6615971B1FBC6C68B35D52BEC0ED8B2227E24</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573097536630</timeStampStr>
+</blockRecord>
+
+
+Verfied Block recieved from Process Id: 0
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: 6edc27ce-76c2-42d7-b0d0-9fc422618ffd Social 123-45-6789 First Name: John TimeStamp: 1573097536630]
+Starting the Unverified Block Priority Queue Consumer thread.
+
+Hamood Rehman's BlockFramework control-c to quit.
+
+Using processID: 0
+Starting the Unverified Block Server input thread using 4820
+Starting the blockchain server input thread using 4930
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>f6c4303c-e4f3-4c60-aeda-04bfd661a37d</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573097556114</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: f6c4303c-e4f3-4c60-aeda-04bfd661a37d Social 123-45-6789 First Name: John TimeStamp: 1573097556114]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: f6c4303c-e4f3-4c60-aeda-04bfd661a37d Social 123-45-6789 First Name: John TimeStamp: 1573097556114]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>d2789722-7c6c-4a5a-8f65-e34f34111e08</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573097556639</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: d2789722-7c6c-4a5a-8f65-e34f34111e08 Social 123-45-6888 First Name: Joe TimeStamp: 1573097556639]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: f6c4303c-e4f3-4c60-aeda-04bfd661a37d Social 123-45-6789 First Name: John TimeStamp: 1573097556114], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: d2789722-7c6c-4a5a-8f65-e34f34111e08 Social 123-45-6888 First Name: Joe TimeStamp: 1573097556639]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>06a80e00-2b47-4a13-9cd1-6f2244971cf5</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+    <timeStampStr>1573097557142</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 06a80e00-2b47-4a13-9cd1-6f2244971cf5 Social 123-45-6999 First Name: Julie TimeStamp: 1573097557142]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: f6c4303c-e4f3-4c60-aeda-04bfd661a37d Social 123-45-6789 First Name: John TimeStamp: 1573097556114], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: d2789722-7c6c-4a5a-8f65-e34f34111e08 Social 123-45-6888 First Name: Joe TimeStamp: 1573097556639], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 06a80e00-2b47-4a13-9cd1-6f2244971cf5 Social 123-45-6999 First Name: Julie TimeStamp: 1573097557142]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>4617d8c3-7151-424d-b0be-d9521fa8d828</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+    <timeStampStr>1573097557646</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 4617d8c3-7151-424d-b0be-d9521fa8d828 Social 123-45-6777 First Name: Wayne TimeStamp: 1573097557646]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: f6c4303c-e4f3-4c60-aeda-04bfd661a37d Social 123-45-6789 First Name: John TimeStamp: 1573097556114], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: d2789722-7c6c-4a5a-8f65-e34f34111e08 Social 123-45-6888 First Name: Joe TimeStamp: 1573097556639], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 06a80e00-2b47-4a13-9cd1-6f2244971cf5 Social 123-45-6999 First Name: Julie TimeStamp: 1573097557142], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 4617d8c3-7151-424d-b0be-d9521fa8d828 Social 123-45-6777 First Name: Wayne TimeStamp: 1573097557646]]
+4 records read.
+Names from input:
+Starting the Unverified Block Priority Queue Consumer thread.
+
+First 16 bits in Hex 746F with Decimal value: 29807
+First 16 bits in Hex FC9E with Decimal value: 64670
+First 16 bits in Hex F877 with Decimal value: 63607
+First 16 bits in Hex 77D6 with Decimal value: 30678
+First 16 bits in Hex C984 with Decimal value: 51588
+First 16 bits in Hex 291D with Decimal value: 10525
+Block verified by Process 0
+Verfied Block recieved from Process Id: 0
+First 16 bits in Hex 31D5 with Decimal value: 12757
+Block verified by Process 0
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>f6c4303c-e4f3-4c60-aeda-04bfd661a37d</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>291D7D949CB5B2503B514533BC779EAC455163C67575EE44AFCC1F74BDAC5F5D</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573097556114</timeStampStr>
+</blockRecord>
+
+
+Verfied Block recieved from Process Id: 0
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: f6c4303c-e4f3-4c60-aeda-04bfd661a37d Social 123-45-6789 First Name: John TimeStamp: 1573097556114]
+First 16 bits in Hex 021E with Decimal value: 542
+Block verified by Process 0
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>d2789722-7c6c-4a5a-8f65-e34f34111e08</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>31D59EA2203CE1622196080D21A7C36DEA24F76957F1367F722B833CE3953084</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573097556639</timeStampStr>
+</blockRecord>
+
+
+Verfied Block recieved from Process Id: 0
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: d2789722-7c6c-4a5a-8f65-e34f34111e08 Social 123-45-6888 First Name: Joe TimeStamp: 1573097556639]
+First 16 bits in Hex 320F with Decimal value: 12815
+Block verified by Process 0
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>06a80e00-2b47-4a13-9cd1-6f2244971cf5</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>021E336CCE048BD11B30A759175B7E1D74DAC7F19FC6A1438177D9E22DF201E7</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+    <timeStampStr>1573097557142</timeStampStr>
+</blockRecord>
+
+
+Verfied Block recieved from Process Id: 0
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: 06a80e00-2b47-4a13-9cd1-6f2244971cf5 Social 123-45-6999 First Name: Julie TimeStamp: 1573097557142]
+Verified Block Ledger has been updated in BlockchainLedger.xml
+Verified Block Received by BLOCKCHAIN:
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>4617d8c3-7151-424d-b0be-d9521fa8d828</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ASHA256String>320F0E4E2A962A1B6047A6A1D448C5419322808D3CCC27EC5966583AFC4FC2A1</ASHA256String>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+    <timeStampStr>1573097557646</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: 0 Block ID: 4617d8c3-7151-424d-b0be-d9521fa8d828 Social 123-45-6777 First Name: Wayne TimeStamp: 1573097557646]
+Verified Block Ledger has been updated in BlockchainLedger.xml
+Verified Block Ledger has been updated in BlockchainLedger.xml
+Hamood Rehman's BlockFramework control-c to quit.
+
+Using processID: 0
+Starting the Unverified Block Server input thread using 4820
+Starting the blockchain server input thread using 4930
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>e80a7945-a1be-4420-a014-077082cb0632</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573097760581</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: e80a7945-a1be-4420-a014-077082cb0632 Social 123-45-6789 First Name: John TimeStamp: 1573097760581]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: e80a7945-a1be-4420-a014-077082cb0632 Social 123-45-6789 First Name: John TimeStamp: 1573097760581]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>049f0845-5225-4d4d-8781-19712d385f53</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573097761094</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 049f0845-5225-4d4d-8781-19712d385f53 Social 123-45-6888 First Name: Joe TimeStamp: 1573097761094]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: e80a7945-a1be-4420-a014-077082cb0632 Social 123-45-6789 First Name: John TimeStamp: 1573097760581], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 049f0845-5225-4d4d-8781-19712d385f53 Social 123-45-6888 First Name: Joe TimeStamp: 1573097761094]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>1429e650-9d52-4434-917e-1df2cee158b6</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+    <timeStampStr>1573097761596</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 1429e650-9d52-4434-917e-1df2cee158b6 Social 123-45-6999 First Name: Julie TimeStamp: 1573097761596]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: e80a7945-a1be-4420-a014-077082cb0632 Social 123-45-6789 First Name: John TimeStamp: 1573097760581], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 049f0845-5225-4d4d-8781-19712d385f53 Social 123-45-6888 First Name: Joe TimeStamp: 1573097761094], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 1429e650-9d52-4434-917e-1df2cee158b6 Social 123-45-6999 First Name: Julie TimeStamp: 1573097761596]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>6a48ec03-0f3f-4fd1-8de3-2976483903a4</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+    <timeStampStr>1573097762098</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 6a48ec03-0f3f-4fd1-8de3-2976483903a4 Social 123-45-6777 First Name: Wayne TimeStamp: 1573097762098]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: e80a7945-a1be-4420-a014-077082cb0632 Social 123-45-6789 First Name: John TimeStamp: 1573097760581], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 049f0845-5225-4d4d-8781-19712d385f53 Social 123-45-6888 First Name: Joe TimeStamp: 1573097761094], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 1429e650-9d52-4434-917e-1df2cee158b6 Social 123-45-6999 First Name: Julie TimeStamp: 1573097761596], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 6a48ec03-0f3f-4fd1-8de3-2976483903a4 Social 123-45-6777 First Name: Wayne TimeStamp: 1573097762098]]
+4 records read.
+Names from input:
+Hamood Rehman's BlockFramework control-c to quit.
+
+Using processID: 0
+Starting the Unverified Block Server input thread using 4820
+Starting the blockchain server input thread using 4930
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>d175d5e1-aa9d-43a9-9de0-f0b80e3bd049</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573097979797</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: d175d5e1-aa9d-43a9-9de0-f0b80e3bd049 Social 123-45-6789 First Name: John TimeStamp: 1573097979797]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: d175d5e1-aa9d-43a9-9de0-f0b80e3bd049 Social 123-45-6789 First Name: John TimeStamp: 1573097979797]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>625b6c68-5f92-4815-a340-f3e83b397544</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573097980323</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 625b6c68-5f92-4815-a340-f3e83b397544 Social 123-45-6888 First Name: Joe TimeStamp: 1573097980323]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: d175d5e1-aa9d-43a9-9de0-f0b80e3bd049 Social 123-45-6789 First Name: John TimeStamp: 1573097979797], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 625b6c68-5f92-4815-a340-f3e83b397544 Social 123-45-6888 First Name: Joe TimeStamp: 1573097980323]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>af782231-b47d-4917-9b5a-4e3e2e7174d4</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+    <timeStampStr>1573097980825</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: af782231-b47d-4917-9b5a-4e3e2e7174d4 Social 123-45-6999 First Name: Julie TimeStamp: 1573097980825]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: d175d5e1-aa9d-43a9-9de0-f0b80e3bd049 Social 123-45-6789 First Name: John TimeStamp: 1573097979797], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 625b6c68-5f92-4815-a340-f3e83b397544 Social 123-45-6888 First Name: Joe TimeStamp: 1573097980323], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: af782231-b47d-4917-9b5a-4e3e2e7174d4 Social 123-45-6999 First Name: Julie TimeStamp: 1573097980825]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>0b623a6c-6a14-4ec5-a63c-e44d00c766ee</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+    <timeStampStr>1573097981328</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 0b623a6c-6a14-4ec5-a63c-e44d00c766ee Social 123-45-6777 First Name: Wayne TimeStamp: 1573097981328]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: d175d5e1-aa9d-43a9-9de0-f0b80e3bd049 Social 123-45-6789 First Name: John TimeStamp: 1573097979797], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 625b6c68-5f92-4815-a340-f3e83b397544 Social 123-45-6888 First Name: Joe TimeStamp: 1573097980323], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: af782231-b47d-4917-9b5a-4e3e2e7174d4 Social 123-45-6999 First Name: Julie TimeStamp: 1573097980825], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 0b623a6c-6a14-4ec5-a63c-e44d00c766ee Social 123-45-6777 First Name: Wayne TimeStamp: 1573097981328]]
+Hamood Rehman's BlockFramework control-c to quit.
+
+Using processID: 0
+Starting the Unverified Block Server input thread using 4820
+Starting the blockchain server input thread using 4930
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>384d5c94-fca5-491e-a94f-d36f122a780f</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573099240271</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 384d5c94-fca5-491e-a94f-d36f122a780f Social 123-45-6789 First Name: John TimeStamp: 1573099240271]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 384d5c94-fca5-491e-a94f-d36f122a780f Social 123-45-6789 First Name: John TimeStamp: 1573099240271]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>14e8ae26-0830-404a-bf27-cf0260483c38</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+    <timeStampStr>1573099240797</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 14e8ae26-0830-404a-bf27-cf0260483c38 Social 123-45-6888 First Name: Joe TimeStamp: 1573099240797]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 384d5c94-fca5-491e-a94f-d36f122a780f Social 123-45-6789 First Name: John TimeStamp: 1573099240271], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 14e8ae26-0830-404a-bf27-cf0260483c38 Social 123-45-6888 First Name: Joe TimeStamp: 1573099240797]]
+To be put in priority queue: 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <ABlockID>2a82cf62-0465-46ba-a231-7f9b3bddfbaa</ABlockID>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+    <timeStampStr>1573099241300</timeStampStr>
+</blockRecord>
+
+
+BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 2a82cf62-0465-46ba-a231-7f9b3bddfbaa Social 123-45-6999 First Name: Julie TimeStamp: 1573099241300]
+[BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 384d5c94-fca5-491e-a94f-d36f122a780f Social 123-45-6789 First Name: John TimeStamp: 1573099240271], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 14e8ae26-0830-404a-bf27-cf0260483c38 Social 123-45-6888 First Name: Joe TimeStamp: 1573099240797], BlockRecord[Creating Process: Process0 Verification Process: null Block ID: 2a82cf62-0465-46ba-a231-7f9b3bddfbaa Social 123-45-6999 First Name: Julie TimeStamp: 1573099241300]]
